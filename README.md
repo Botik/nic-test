@@ -1,12 +1,11 @@
-# Elysia with Bun runtime
-
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+# NIC-text example todo server
 
 ## Development
+Copy and edit the .env.example file.
+Run development environment
+```bash
+docker compose up -d
+```
 To start the development server run:
 ```bash
 bun run dev
